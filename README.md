@@ -1,15 +1,11 @@
 ## Welcome!
 
-Me chamo Gabriel Felix, e minha paixão pela tecnologia é o que me impulsiona a criar, inovar e explorar. Navegue pelo meu perfil para descobrir meu amor pela programação e meu compromisso com o mundo da tecnologia. 
+Me chamo Gabriel Felix, e sou aáixonado pela tecnologia, criação e inovação.
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gofelix1616@gmail.com)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfelix1)
 
-<div aling='center'>
-  <img width="47%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielfelxx&show_icons=true&count_private=true&hide_border=true&title_color=418cf2&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="gabriel github stats" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfelxx&layout=compact&hide_border=true&title_color=418cf2&text_color=00bfbf&bg_color=0d1117" />
-</div>
-<br>
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielfelxx&show_icons=true&theme=transparent)
 
 ## Skills:
 
